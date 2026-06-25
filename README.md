@@ -16,5 +16,6 @@ Frontend Developer with 9+ years of experience building complex SaaS application
 📊 Dashboard Widgets System
 
 ### Contact
-LinkedIn: [...](https://www.linkedin.com/in/stavmaman/)
+LinkedIn: [stavmaman](https://www.linkedin.com/in/stavmaman/)
+
 Email: [stav2m@gmail.com](mailto:stav2m@gmail.com)
