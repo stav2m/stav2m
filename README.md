@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Stav 👋
 
-<!--
-**stav2m/stav2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 9+ years of experience building complex SaaS applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Vue.js
+- Angular
+- TypeScript
+- AWS
+- Node.js
+- Design Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+🚀 Meetli – AI scheduling assistant
+🎨 Component Library
+📊 Dashboard Widgets System
+
+### Contact
+LinkedIn: [...](https://www.linkedin.com/in/stavmaman/)
+Email: [stav2m@gmail.com](mailto:stav2m@gmail.com)
