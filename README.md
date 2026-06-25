@@ -11,9 +11,9 @@ Frontend Developer with 9+ years of experience building complex SaaS application
 - Design Systems
 
 ### Featured Projects
-🚀 Meetli – AI scheduling assistant
-🎨 Component Library
-📊 Dashboard Widgets System
+- 🚀 Meetli – AI scheduling assistant
+- 🎨 Component Library
+- 📊 Dashboard Widgets System
 
 ### Contact
 LinkedIn: [stavmaman](https://www.linkedin.com/in/stavmaman/)
