@@ -1,6 +1,6 @@
 # Hi, I'm Stav 👋
 
-Frontend Developer with 9+ years of experience building complex SaaS applications.
+Frontend Developer with 9+ years of experience building scalable SaaS products and modern user interfaces.
 
 ### Tech Stack
 - Vue.js
@@ -10,10 +10,16 @@ Frontend Developer with 9+ years of experience building complex SaaS application
 - Node.js
 - Design Systems
 
-### Featured Projects
-- 🚀 Meetli – AI scheduling assistant
-- 🎨 Component Library
-- 📊 Dashboard Widgets System
+### 🚀 Featured Projects
+
+🗓️ **Meetli**  
+AI scheduling assistant powered by OpenAI, Google Calendar and WhatsApp.
+
+⚛️ **CodeOcean Frontend Challenge**  
+React + TypeScript app showcasing modern frontend architecture and performance techniques.
+
+🤝 **Code for Israel**  
+Open-source contributor building technology for social impact.
 
 ### Contact
 LinkedIn: [stavmaman](https://www.linkedin.com/in/stavmaman/)
